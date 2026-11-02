@@ -47,3 +47,5 @@ g++ -std=c++17 -Wall -Wextra game_time.cpp -o game_time
 
 #### to run
 ./game_time
+
+# I restored the originally assigned values in both .cpp files before my final upload, and ran both files again. 
